@@ -10,7 +10,7 @@ A small Express REST service skeleton for building payment quotes for a Ripple g
     cd gatewayd-quote-service
     npm install
 
-The package is not published to npm.
+It is not known to be on npm (the version is still 0.0.0).
 
 ## Usage
 

@@ -16,7 +16,7 @@ Last reviewed: 2026-11-20 (github-audit pass 02, documentation only; no code was
 - Gulp 3 and `gulp-6to5` are unlikely to run on a current Node.js.
 - `npm test` only runs the build; there are no tests.
 - `package.json` has an empty description and author, and the package name (`quotes-service`) differs from the repo name.
-- The repo has no README before this pass.
+- The repo had no README before this pass.
 
 ## What's next
 
